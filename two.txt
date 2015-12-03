@@ -1,2 +1,5 @@
 this is new file ,file name is two.txt
 check
+this is new
+new line
+two new line
