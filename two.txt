@@ -1,4 +1,6 @@
 this is new file ,file name is two.txt
 check
 this is new
-Git si free software
+Git si free softwa
+new line
+two new line
